@@ -56,13 +56,13 @@ Primero fue un murmullo. Un susurro perdido en la estática de la radio.
 Después una orden. Un mensaje. Una esperanza.
 
 > “…Tiger 332… hier Zentrale… hören Sie mich?”
-> 
+>
 
 Hauptmann no duda. No cuestiona. Hace lo que siempre hizo: obedece.
 Aprieta el micro. Da la orden.
 
 > “Suroeste. Avanzar. No se detengan.”
-> 
+>
 
 Su condena no es morir aquí. Su condena es avanzar. Siempre avanzar.
 Hacia la nada.
@@ -102,7 +102,7 @@ Formas humanas.
 Se mueven rápido. Borrosas. Difusas. A veces niños. A veces mujeres. A veces enemigos.
 
 > “Capitán… ¡Movimiento al frente! ¡Contacto!”
-> 
+>
 
 ![El rostro de Karl está marcado por la guerra. Pero su verdadera herida está en los ojos. No ve enemigos. No ve civiles. Ve amenazas. Ve espectros. Su condena no es disparar. Su condena es no saber nunca a quién mató.](/el-ultimo-combate/imagen-cinco.jpg)
 
@@ -135,8 +135,7 @@ Solo restos de lo que parecían ser cruces de madera. Ropas viejas. Juguetes. So
 
 El tanque Tiger 332 sigue avanzando. Pero avanzar… ¿hacia dónde? Para Dieter, el conductor, no importa. Su mundo se reduce a un pequeño espacio de acero caliente y rugoso. Sus manos están fijas en los controles.
 
-Sus botas firmes en los pedales.Sus ojos muertos frente a un periscopio ciego.
-
+Sus botas firmes en los pedales. Sus ojos muertos frente a un periscopio ciego.
 Su condena no es luchar. Su condena es obedecer.
 
 Para siempre.
@@ -150,15 +149,17 @@ El motor ruge.
 La radio escupe órdenes fragmentadas, cada vez más confusas, cada vez más insensatas.
 
 > “Avanzar… avanzar… avanzar…”
-> 
+>
 
 Y él obedece.
 
 Pero no hay línea recta en el infierno. Las orugas del Tiger 332 se hunden una y otra vez en los mismos surcos. La arena se traga su rastro.
 
-Gira.
-Gira.
-Gira.
+> Gira.
+
+> Gira.
+
+> Gira.
 
 Un círculo perfecto de condena.
 
@@ -199,13 +200,13 @@ Un fragmento de lo que alguna vez destruyó. Niños. Madres. Ancianos. Civiles s
 Cada vez que Otto introduce un proyectil en la recámara, escucha un eco:
 
 > “¿Por qué?”
-> 
+>
 
 > “¿Por qué?”
-> 
+>
 
 > “¿Por qué?”
-> 
+>
 
 Pero su cuerpo sigue. Sus manos repiten el gesto. Carga. Dispara. Vuelve a cargar. La munición nunca se agota.
 
@@ -249,9 +250,11 @@ Su rostro es piedra. Sus ojos están abiertos… pero ya no ven nada. La guerra 
 
 ---
 
-# **El Último Eco**
+## **El Último Eco**
 
-El desierto volvió a ser silencio. No queda nada del Tiger 332. Nada salvo un esqueleto de metal devorado por el óxido y la arena.
+El desierto volvió a ser silencio. No queda nada del Tiger 332.
+
+Nada salvo un esqueleto de metal devorado por el óxido y la arena.
 
 Nada salvo las huellas que ya el viento borró. No quedan órdenes. No quedan soldados.No queda guerra. Solo un rumor. Un eco antiguo.
 
