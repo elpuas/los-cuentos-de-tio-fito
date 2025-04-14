@@ -15,8 +15,6 @@ Allí empieza nuestra historia. En un desierto sin nombre. Sin mapas. Sin final.
 
 El tanque Tiger 332 avanza lentamente, devorando kilómetros de arena muerta. Su silueta metálica, corroída y silenciosa, corta la niebla densa de un mundo que parece olvidado por Dios y por los hombres.
 
-El tanque Tiger 332 avanza lentamente, devorando kilómetros de arena muerta. Su silueta metálica, corroída y silenciosa, corta la niebla densa de un mundo que parece olvidado por Dios y por los hombres.
-
 Dentro, cinco soldados alemanes cumplen su rutina militar. Hablan poco. Obedecen.
 Revisan sus instrumentos oxidados.
 Repiten sus roles como autómatas.
