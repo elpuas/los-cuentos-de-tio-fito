@@ -126,6 +126,10 @@ img {
 
 .entry-content p img {
 	max-height: 480px;
+	border-radius: 2px;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+	padding: 16px;
+	border: 1px solid rgb(var(--gray-light));
 }
 
 code {
@@ -149,7 +153,10 @@ blockquote {
 hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
+	margin-block-start: 1.5rem;
+	margin-block-end: 1.5rem;
 }
+
 @media (max-width: 720px) {
 	body {
 		font-size: 18px;

@@ -32,6 +32,8 @@ Este es el principio de su último combate...
 HAUPTMANN:
 > Zentrale, hier Tiger 332... antworten Sie...
 
+---
+
 ## Círculo 1 — El Engaño
 
 *En el Círculo del Engaño, los muertos no se dan cuenta de que están muertos.*
@@ -77,6 +79,7 @@ Hacia la nada.
 
 *“Y siguen marchando… porque nadie les dijo que pueden detenerse…”*
 
+---
 
 ## **Círculo 2 — El Fanatismo**
 
@@ -124,13 +127,13 @@ Solo restos de lo que parecían ser cruces de madera. Ropas viejas. Juguetes. So
 
 *“Karl no está condenado a morir disparando. Está condenado a disparar… sin saber nunca a quién. El fanático no necesita órdenes. Lleva el miedo tatuado en la mirada.”*
 
-# **Círculo 3 — La Obediencia Ciega**
+---
+
+## **Círculo 3 — La Obediencia Ciega**
 
 *En el Círculo de la Obediencia Ciega, el peor enemigo es el instinto que te impide detenerte.*
 
-## **El Motor de la Condena**
-
----
+### **El Motor de la Condena**
 
 El tanque Tiger 332 sigue avanzando. Pero avanzar… ¿hacia dónde? Para Dieter, el conductor, no importa. Su mundo se reduce a un pequeño espacio de acero caliente y rugoso. Sus manos están fijas en los controles.
 
@@ -139,8 +142,6 @@ Sus botas firmes en los pedales.Sus ojos muertos frente a un periscopio ciego.
 Su condena no es luchar. Su condena es obedecer.
 
 Para siempre.
-
----
 
 ### **Dieter**
 
@@ -158,9 +159,7 @@ Y él obedece.
 Pero no hay línea recta en el infierno. Las orugas del Tiger 332 se hunden una y otra vez en los mismos surcos. La arena se traga su rastro.
 
 Gira.
-
 Gira.
-
 Gira.
 
 Un círculo perfecto de condena.
@@ -171,27 +170,23 @@ Aunque nunca llegue.
 
 ![El Tiger 332 gira en un círculo perfecto, eterno, trazado en la arena como una lápida sin nombre. Desde el cielo, el desierto entero parece observar su condena. Aquí no hay enemigos. Solo memoria… y ruina.](/el-ultimo-combate/imagen-ocho.jpg)
 
----
-
 ### **La Condena de Dieter**
 
 *“Dieter está condenado a avanzar sin destino. Su trinchera no está hecha de barro ni metralla. Está hecha de órdenes vacías. En el Círculo de la Obediencia Ciega, el peor enemigo es el instinto que te impide detenerte. Porque hay soldados que mueren luchando… pero hay otros que mueren obedeciendo.”*
 
-# **Círculo 4 — La Violencia Gratuita**
+---
+
+## **Círculo 4 — La Violencia Gratuita**
 
 *En el Círculo de la Violencia Gratuita, las balas no matan al enemigo… Matan al que las dispara.*
 
-## **La Munición de los Muertos**
-
----
+### **La Munición de los Muertos**
 
 Dentro del Tiger 332, Otto carga los proyectiles. Es su tarea. Es su vida. Es su condena.
 
 Los proyectiles están allí. Siempre. Brillantes. Fríos. Inmortales. Cada vez que toma uno entre sus manos, siente su peso. Pero el peso no es de acero.
 
 Es de carne. Es de voces. Es de recuerdos.
-
----
 
 ### **Otto**
 
@@ -220,19 +215,17 @@ Su infierno es eterno.
 
 ![Entre los proyectiles yace lo que la guerra siempre deja atrás: muñecos olvidados, ropas rotas, fragmentos de inocencia perdida. Otto no carga munición. Carga memoria. Carga muerte.](/el-ultimo-combate/imagen-diez.jpg)
 
----
-
 ### **La Condena de Otto**
 
 *“Otto no está condenado a morir por la guerra. Está condenado a vivir dentro de ella. A repetir su crimen una y otra vez. A cargar no proyectiles… sino sus propias víctimas. En el infierno, las armas nunca se quedan sin munición. Porque el horror… tampoco.”*
 
-# **Círculo 5 — El Orgullo Militar**
+---
+
+## **Círculo 5 — El Orgullo Militar**
 
 *En el Círculo del Orgullo, el orgullo militar sobrevive a las balas… pero no sobrevive al tiempo.*
 
-## **El Último Bastión**
-
----
+### **El Último Bastión**
 
 El desierto es ahora un cementerio sin tumbas. El Tiger 332 está detenido. No por una explosión. No por un disparo. Simplemente… se detuvo.
 
@@ -240,44 +233,33 @@ La arena empieza a cubrir sus orugas oxidadas. El metal cruje cuando el viento s
 
 Dentro del tanque, Hauptmann permanece inmóvil.
 
----
-
 ![Dentro del tanque oxidado, Hauptmann espera en silencio. No espera refuerzos. No espera victoria. Solo espera desaparecer junto a su máquina de guerra, como un fósil de acero y orgullo roto.](/el-ultimo-combate/imagen-once.jpg)
 
 El espacio que antes fue su fortaleza es ahora una celda sin salida. Las paredes metálicas están cubiertas de óxido. El panel de mandos es un esqueleto de cables quemados.
 
 El micrófono de la radio cuelga, balanceándose lentamente como un péndulo inútil.
-
 Hauptmann ya no grita. No da órdenes. No hay a quién.
-
 Sus manos, que alguna vez sostuvieron mapas y estrategias, ahora están cubiertas de mugre seca.
 
-Su rostro es piedra. Sus ojos están abiertos… pero ya no ven nada. La guerra que lo definió murió mucho antes que él.
-
-Su rango no vale nada aquí. Su uniforme es solo un trapo más que la arena devorará.
+Su rostro es piedra. Sus ojos están abiertos… pero ya no ven nada. La guerra que lo definió murió mucho antes que él. Su rango no vale nada aquí. Su uniforme es solo un trapo más que la arena devorará.
 
 ![El Tiger 332 quedó varado para siempre. No como un monumento. No como un recuerdo glorioso. Sino como lo que siempre fue: una máquina de muerte. Rodeada de esqueletos, huesos quebrados y ruinas. La guerra no deja héroes. Solo deja restos.](/el-ultimo-combate/imagen-doce.jpg)
-
----
 
 ### **La Condena de Hauptmann**
 
 *“En el Círculo del Orgullo, no hay enemigo que vencer. Solo hay vacío. Solo hay olvido. Hauptmann no cayó en combate. Cayó en silencio. Como caen todos los símbolos cuando ya no queda nadie que los mire.”*
 
-# **El Último Eco**
-
 ---
+
+# **El Último Eco**
 
 El desierto volvió a ser silencio. No queda nada del Tiger 332. Nada salvo un esqueleto de metal devorado por el óxido y la arena.
 
 Nada salvo las huellas que ya el viento borró. No quedan órdenes. No quedan soldados.No queda guerra. Solo un rumor. Un eco antiguo.
 
-Cuentan los viejos pastores que en las noches sin luna, cuando el viento sopla desde las montañas muertas, se escucha un rugido lejano.
-
-Un rugido que no es de esta tierra. Un sonido de hierro y furia perdida. Como un motor maldito que sigue girando en un mundo que ya lo olvidó.
+Cuentan los viejos pastores que en las noches sin luna, cuando el viento sopla desde las montañas muertas, se escucha un rugido lejano. Un rugido que no es de esta tierra. Un sonido de hierro y furia perdida. Como un motor maldito que sigue girando en un mundo que ya lo olvidó.
 
 Tal vez es el Tiger 332. Tal vez es Hauptmann.
-
 Tal vez son todos los fantasmas de las guerras que el hombre se niega a dejar morir.Porque la guerra no termina cuando se firma la paz. La guerra termina cuando se deja de recordarla.
 
 Y hay guerras que nunca terminan.

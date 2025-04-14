@@ -88,6 +88,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				max-height: 640px;
 				margin: 0 auto;
 			}
+
+			.entry-content p:has(img) {
+				border-radius: 2px;
+				box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+				padding: 16px;
+			}
 		</style>
 	</head>
 
