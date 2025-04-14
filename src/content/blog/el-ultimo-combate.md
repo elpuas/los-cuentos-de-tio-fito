@@ -78,7 +78,7 @@ Hacia la nada.
 *“Y siguen marchando… porque nadie les dijo que pueden detenerse…”*
 
 
-# **Círculo 2 — El Fanatismo**
+## **Círculo 2 — El Fanatismo**
 
 *En el Círculo del Fanatismo, el enemigo está en los ojos de quien mira.*
 
