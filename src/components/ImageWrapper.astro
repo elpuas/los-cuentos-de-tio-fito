@@ -1,0 +1,32 @@
+---
+interface Props {
+    src: string;
+    alt: string;
+    caption?: string;
+}
+
+const { src, alt, caption } = Astro.props;
+---
+
+<div class="image-wrapper">
+    <img src={src} alt={alt} loading="lazy" />
+    {caption && <p class="caption">{caption}</p>}
+</div>
+
+<style>
+    .image-wrapper {
+	position: relative;
+    }
+
+    .image-wrapper p img {
+        max-height: 100%;
+        padding: 0;
+    }
+
+    .caption {
+        font-size: 0.9em;
+        color: var(--gray);
+        text-align: center;
+        font-style: italic;
+    }
+</style> 
